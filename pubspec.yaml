@@ -1,6 +1,6 @@
 name: startate
 description: State manager and Dependency Injection for Flutter
-version: 1.0.0
+version: 5.0.0
 homepage: https://github.com/TFSThiagoBR98/startate
 
 environment:
